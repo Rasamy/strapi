@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_components_two_buttons",
+  "info": {
+    "displayName": "TwoButton"
+  },
+  "options": {},
+  "attributes": {
+    "FirstBtn": {
+      "displayName": "button",
+      "type": "component",
+      "repeatable": false,
+      "component": "components.button"
+    }
+  }
+}

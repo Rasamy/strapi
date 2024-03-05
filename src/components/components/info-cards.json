@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_components_info_cards",
+  "info": {
+    "displayName": "InfoCards",
+    "icon": "feather"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "backgroud": {
+      "type": "enumeration",
+      "enum": [
+        "blue",
+        "grey",
+        "purple",
+        "white"
+      ]
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
